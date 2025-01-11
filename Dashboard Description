@@ -1,0 +1,59 @@
+🎥 Prime Video Dashboard🎥
+
+  
+🌟 Project Overview:
+The Prime Video Dashboard is an interactive business intelligence solution built using Power BI. 
+Designed to analyze key performance indicators (KPIs), this dashboard visualizes trends, tracks user behavior, and 
+delivers actionable insights to enhance decision-making and optimize business operations for Prime Video.
+
+🔑 Key Features:
+  
+📊 Comprehensive KPI Analysis:
+Tracks vital metrics like total views, revenue, watch time, subscription growth, and churn rate.
+Provides stakeholders with a clear, high-level overview of business performance.
+  
+🎨 Interactive Visualizations:
+Includes dynamic charts, graphs, and slicers for intuitive data presentation.
+Drill-through functionality for deeper analysis of data points.
+  
+📈 Trend and Behavior Analysis:
+Examines trends in viewer engagement, popular genres, regional performance, and seasonal variations.
+Unveils user preferences to refine content strategies.
+  
+⚙️ Optimized Data Models:
+Cleanses and integrates data from multiple sources for accuracy and reliability.
+Leverages advanced DAX calculations for precise insights.
+  
+🖥️ User-Friendly Design:
+Intuitive layout with easy-to-use filters for quick navigation.
+Accessible insights tailored for both technical and non-technical users.
+  
+🛠️ Tools and Technologies:
+Data Visualization: Power BI
+Data Cleaning & Preparation: Power Query
+Data Modeling: DAX (Data Analysis Expressions)
+Data Sources: Aggregated data (e.g., subscriptions, viewership, revenue streams)
+  
+💡 Use Cases:
+📺 Content Strategy Optimization:
+Identify trending genres and high-engagement content to guide future production.
+
+📊 Business Performance Monitoring:
+Assess subscription growth, churn rates, and revenue trends for a complete performance review.
+
+🌍 Regional Insights:
+Analyze viewership by region to tailor marketing and content strategies.
+
+📷 Screenshots:
+(Add images of your dashboard here to showcase visuals and functionality.)
+
+🚀 How to Use:
+Clone this repository.
+Open the .pbix file in Power BI Desktop.
+Connect the dashboard to your data source (optional for real-time updates).
+Explore interactive visuals and uncover valuable insights!
+  
+🌟 Project Highlights:
+This project demonstrates expertise in data visualization, business intelligence, and decision-making. 
+It exemplifies how raw data can be transformed into actionable insights, enabling businesses to thrive in a data-driven environment.
+
